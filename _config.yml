@@ -23,11 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Experience: "aboutme"
   Awards: "aboutme"
-  Publications: "aboutme"
-  Community Service: "aboutme"
+  Publications: "aboutme"  
   AP Courses: "aboutme"
   Robotics: "aboutme"
-  Activities: "aboutme"
 
 ################
 # --- Logo --- #
