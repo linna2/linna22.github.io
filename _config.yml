@@ -20,12 +20,8 @@ author: Michael Han
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Experience: "aboutme"
-  Awards: "aboutme"
+  CV: "aboutme"
   Publications: "aboutme"  
-  AP Courses: "aboutme"
-  Robotics: "aboutme"
 
 ################
 # --- Logo --- #
