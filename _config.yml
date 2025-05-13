@@ -20,6 +20,7 @@ author: Michael Han
 ###############################################
 
 navbar-links:
+  Research: "research"
   CV: "aboutme"
   Publications: "publications"  
 
