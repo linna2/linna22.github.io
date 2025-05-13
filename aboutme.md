@@ -6,14 +6,14 @@ subtitle: Michael Han
 
 Hi, I’m Michael.
 
-I’m someone who finds joy in asking “why?”—and occasionally “why not?” Whether I’m exploring the theoretical underpinnings of a problem or building something hands-on, I’m drawn to challenges that require both precision and imagination.
+I like asking "why" and sometimes "why not." Whether I'm thinking through a tricky problem or building something hands-on, I’m drawn to challenges that need both logic and creativity.
 
-I’ve learned that I’m happiest when I’m fully immersed—thinking through a proof that resists easy answers, debugging code at midnight, or collaborating on a project where every teammate brings a different perspective. I don’t just want to learn how things work; I want to stretch them, question them, and sometimes even reinvent them.
+I’m at my best when I’m fully into something. That could mean working through a proof that refuses to make sense, debugging code late at night, or teaming up with people who see things differently. I don’t just want to understand how things work. I want to push them, rethink them, and sometimes build something completely new.
 
-Outside of structured academics, I value self-driven work. Some of my most meaningful experiences have come from independent exploration—experimenting with new algorithms, learning from research mentors, or prototyping ideas that never quite “worked,” but taught me something anyway.
+Some of the most meaningful things I’ve done have come from following my own curiosity. I’ve tested algorithms just to see what would happen, learned from research mentors, and chased ideas that didn’t always work out but still taught me a lot.
 
-What excites me most about college isn’t just the coursework—though I look forward to being challenged intellectually—it’s the culture of curiosity, collaboration, and pushing boundaries. I want to be in a place where it’s normal to debate a math problem over dinner or stay up late building something that no one assigned.
+What excites me most about college isn’t just the classes, even though I’m looking forward to those. It’s the environment. I want to be in a place where it’s normal to argue over a math problem at dinner or stay up late building something just because it sounds interesting.
 
-Thanks for taking the time to visit. If anything here resonates—or raises questions—I’d love to talk.
+Thanks for reading. If anything here stands out or sparks a question, I’d love to talk.
 
 
