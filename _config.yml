@@ -19,9 +19,9 @@ author: Michael Han
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+navbar-links:  
+  About me: "aboutme"
   Research: "research"
-  CV: "aboutme"
   Publications: "publications"  
 
 ################
